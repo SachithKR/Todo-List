@@ -1,0 +1,1 @@
+Todo list is a basic application that allows to add list of things to be done along with the date feature and also provide delete functionality to remove items from the list when completed built using Javascript.
